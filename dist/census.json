@@ -1,0 +1,486 @@
+[
+    {
+      "city": "mumbai",
+      "census": [
+        {
+          "description": "population",
+          "level": {
+            "value": 12442373
+          }
+        },
+        {
+          "description": "sex_ratio",
+          "level": {
+            "value": 853
+          }
+        },
+        {
+          "description": "literacy",
+          "level": {
+            "value": 89.73
+          }
+        }
+      ]
+    },
+    {
+        "city": "delhi",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 11034555
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 876
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 87.59
+            }
+          }
+        ]
+      },
+      {
+        "city": "bangalore",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 8443675
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 923
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 88.71
+            }
+          }
+        ]
+      },
+      {
+        "city": "ahmedabad",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 55770940
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 898
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 88.29
+            }
+          }
+        ]
+      },
+      {
+        "city": "jaipur",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 3046163
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 900
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 83.33
+            }
+          }
+        ]
+      },
+      {
+        "city": "lucknow",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 2817105
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 928
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 82.50
+            }
+          }
+        ]
+      },
+      {
+        "city": "indore",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 1964086
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 925
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 85.87
+            }
+          }
+        ]
+      },
+      {
+        "city": "bhopal",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 1798218
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 921
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 83.47
+            }
+          }
+        ]
+      },
+      {
+        "city": "patna",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 1684222
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 885
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 83.37
+            }
+          }
+        ]
+      },
+      {
+        "city": "ranchi",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 1073427
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 921
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value":87.37
+            }
+          }
+        ]
+      },
+      {
+        "city": "bhubaneswar",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 843402
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 890
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 91.87
+            }
+          }
+        ]
+      },
+      {
+        "city": "thiruvananthpuram",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 743691
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 1054
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 95.10
+            }
+          }
+        ]
+      },
+      {
+        "city": "hyderabad",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 6731790
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 955
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 83.26
+            }
+          }
+        ]
+      },
+      {
+        "city": "chennai",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 4646732
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 989
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 90.18
+            }
+          }
+        ]
+      },
+      {
+        "city": "kolkata",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 4467797
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 908
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 86.31
+            }
+          }
+        ]
+      },
+      {
+        "city": "srinagar",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 1180570
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 908
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 69.15
+            }
+          }
+        ]
+      },
+      {
+        "city": "chandigarh",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 951587
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 829
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 86.79
+            }
+          }
+        ]
+      },
+      {
+        "city": "guwahati",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 957352
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 933
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 91.47
+            }
+          }
+        ]
+      },
+      {
+        "city": "gandhinagar",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 206167
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 918
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 91.01
+            }
+          }
+        ]
+      },
+      {
+        "city": "raipur",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 1010433
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 948
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 85.95
+            }
+          }
+        ]
+      },
+      {
+        "city": "goa",
+        "census": [
+          {
+            "description": "population",
+            "level": {
+              "value": 1458545
+            }
+          },
+          {
+            "description": "sex_ratio",
+            "level": {
+              "value": 915
+            }
+          },
+          {
+            "description": "literacy",
+            "level": {
+              "value": 89.12
+            }
+          }
+        ]
+      }
+
+]

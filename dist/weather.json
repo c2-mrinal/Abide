@@ -1,0 +1,46 @@
+[
+    {
+      "city": "ranchi",
+      "crime":[
+        {"description":"murder","level":{"name":"hard","value":30.6}},
+        {"description":"murder","level":{"name":"hard","value":30.6}},
+        {"description":"murder","level":{"name":"hard","value":30.6}},
+        {"description":"murder","level":{"name":"hard","value":30.6}}
+      ]
+     
+
+      
+    },
+    {
+      "city": "delhi",
+      "crime":[
+        {"description":"murder","level":{"name":"hard","value":30.6}},
+        {"description":"murder","level":{"name":"hard","value":30.6}},
+        {"description":"murder","level":{"name":"hard","value":30.6}},
+        {"description":"murder","level":{"name":"hard","value":30.6}}
+      ]
+    },
+      {
+        "city": "jamshedpur",
+        "crime":[
+          {"description":"murder","level":{"name":"hard","value":30.6}},
+          {"description":"murder","level":{"name":"hard","value":30.6}},
+          {"description":"murder","level":{"name":"hard","value":30.6}},
+          {"description":"murder","level":{"name":"hard","value":30.6}}
+        ]
+      },
+      {
+        "city": "ranchi",
+        "crime":[
+          {"description":"murder","level":{"name":"hard","value":30.6}},
+          {"description":"murder","level":{"name":"hard","value":30.6}},
+          {"description":"murder","level":{"name":"hard","value":30.6}},
+          {"description":"murder","level":{"name":"hard","value":30.6}}
+        ]
+       
+  
+        
+      }
+    
+
+  ]

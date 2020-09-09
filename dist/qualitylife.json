@@ -1,0 +1,818 @@
+[
+  {
+    "city": "ranchi",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 47.24
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "Moderate",
+          "value": 46.6
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 25.87
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 61.93
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 118.27
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "gandhinagar",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "High",
+          "value": 76.47
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 74.44
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Moderate",
+          "value": 49.12
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Low",
+          "value": 23.5
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 51.15
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "bhopal",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 54.68
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "Moderate",
+          "value": 53.24
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 23.05
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Moderate",
+          "value": 58.97
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 120.5
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "delhi",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 41.3
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 67.08
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 27.49
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Very High",
+          "value": 90.87
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 80.43
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "kolkata",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 52.45
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "Moderate",
+          "value": 58.09
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 26.1
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 78.07
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 89.24
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "mumbai",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 57.01
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 65.77
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 29.09
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Very High",
+          "value": 83.11
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Low",
+          "value": 70
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "chennai",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 59.45
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 71.16
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 24.93
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 75.3
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 103.43
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "bangalore",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 48.03
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 66.93
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 27.11
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Very High",
+          "value": 82.88
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 113.09
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "hyderabad",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 56.63
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 66.16
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 25.81
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 76.52
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 117.68
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "jaipur",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "High",
+          "value": 65.42
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 73.41
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 24.51
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 127.54
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 127.54
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "patna",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 48.24
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "Moderate",
+          "value": 54.01
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 23.7
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Very High",
+          "value": 23.7
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 98.9
+        }
+      }
+    ]
+  },
+  {
+    "city": "goa",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 52.77
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 62.99
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 26.79
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Moderate",
+          "value": 46.65
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 124.35
+        }
+      }
+    ]
+  },
+  {
+    "city": "srinagar",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "High",
+          "value": 67.81
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 64.17
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 22.65
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Low",
+          "value": 34.82
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 117.99
+        }
+      }
+    ]
+  },
+  {
+    "city": "raipur",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "High",
+          "value": 67.14
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "Moderate",
+          "value": 55.83
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 22.44
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Very High",
+          "value": 87.08
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 107.61
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "chandigarh",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 56.56
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 60.83
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 29.34
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": " Moderate",
+          "value": 51.08
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 103.61
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "bhubaneswar",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "High",
+          "value": 68.42
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 72.98
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 22.18
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "Moderate",
+          "value": 49.41
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 147.12
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "lucknow",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 46.98
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 62.57
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 22.4
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 79.08
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "Moderate",
+          "value": 100.85
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "indore",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 44.46
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "Moderate",
+          "value": 54.61
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 24.38
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 61.08
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 111.27
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "guwahati",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "Moderate",
+          "value": 55.06
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 65.98
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 25.48
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 76.61
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 115.61
+        }
+      }
+    ]
+  },
+
+  {
+    "city": "ahmedabad",
+    "life": [
+      {
+        "description": "safety",
+        "level": {
+          "name": "High",
+          "value": 68.59
+        }
+      },
+      {
+        "description": "health_care",
+        "level": {
+          "name": "High",
+          "value": 71.61
+        }
+      },
+      {
+        "description": "cost_of_living",
+        "level": {
+          "name": "Very Low",
+          "value": 26.01
+        }
+      },
+      {
+        "description": "pollution",
+        "level": {
+          "name": "High",
+          "value": 71.72
+        }
+      },
+      {
+        "description": "quality_of_life",
+        "level": {
+          "name": "High",
+          "value": 113.71
+        }
+      }
+    ]
+  }
+]
